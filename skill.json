@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ssa-destruction-phi-elimination-skill",
+  "version": "1.0.0",
+  "description": "Out-of-SSA / SSA destruction engine replacing phi-functions with parallel copy sequences across control flow merge edges.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "ssa-destruction",
+    "phi-elimination",
+    "compilers",
+    "control-flow"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
